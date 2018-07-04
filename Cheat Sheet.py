@@ -61,7 +61,5 @@ class Employee:
     # methods - function associated with a class
     #  
      
-def magic
-    %ls magic
 
 
